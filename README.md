@@ -4,6 +4,7 @@ Automatic number plate recognition (ANPR) is quickly becoming an increasingly po
 
 Several trends and challenges are driving the popularity of this solution, such as increasing vehicle thefts, security concerns as well as the growing interest in smart parking solutions and automated vehicle identificatio.
 
+We are using Faster RCNN Inception V2 COCO Model for Deep Learning Algorithm.
 ## What Exactly Is ANPR?
 
   
